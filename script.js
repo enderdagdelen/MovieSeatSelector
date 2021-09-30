@@ -7,6 +7,7 @@ const movieSelect = document.getElementById('movie');
 let ticketPrice = +movieSelect.value;
 
 
+
 //set data from localstorage and populate UI
 populateUI = () => {
 
